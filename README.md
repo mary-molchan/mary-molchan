@@ -170,21 +170,19 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ![Formation](https://img.shields.io/badge/Profil-Formation-228B22?style=for-the-badge)
 
-| Diplôme / Formation | Domaine |
-|---|---|
-| Master en Intelligence Économique | Analyse stratégique, information, organisation, décision |
-| Master en Développement Organisationnel | Processus, organisation, business, transformation |
-| Master en Biologie Computationnelle | Analyse scientifique, données, raisonnement analytique |
-| Formation Data Analyst | SQL, Power BI, Python, analyse de données |
-| Certification Power BI PL-300 | Modélisation, visualisation, DAX, Power BI Service |
+- **Université de Poitiers / IAE** — Bac+5, Finance et Ingénierie Financière, **2026 - 2028** *(prévue, à distance)*.
+- **Université de Poitiers / IAE** — Bac+5, Intelligence économique, **2024 - 2025** *(finalisé avec mention, à distance)*.
+- **OpenClassrooms** — Bac+4, Analyse des données, **2024** *(finalisé en alternance chez Generali)*.
+- **Université Catholique Ukrainienne** — Bac+5, Gestion des RH et développement organisationnel, **2016 - 2018**.
 
 ---
 
 ![Certificats](https://img.shields.io/badge/Profil-Certificats-228B22?style=for-the-badge)
 
-- 
--
-- 
+- [**Power BI Data Analyst PL-300**](lien-vers-le-certificat) — Microsoft, 2026.
+- [**AWS Certified Cloud Practitioner**](lien-vers-le-certificat) — AWS, 2023.
+- [**Google Business Intelligence**](lien-vers-le-certificat) — Google, 2023.
+- **SnowPro® Core Certification** — Snowflake, prévue en septembre 2026.
 
 ---
 

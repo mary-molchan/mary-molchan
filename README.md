@@ -190,31 +190,14 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ---
 
-## Ce que je montre dans ce portfolio
+![Méthode de travail](https://img.shields.io/badge/Profil-M%C3%A9thode%20de%20travail-228B22?style=for-the-badge)
 
-Ce portfolio a pour objectif de démontrer ma capacité à :
-
-- transformer un besoin métier en solution data exploitable ;
-- concevoir des dashboards Power BI lisibles et orientés décision ;
-- structurer des modèles de données propres et documentés ;
-- préparer des pipelines SQL dans Snowflake ;
-- écrire une documentation fonctionnelle et technique professionnelle ;
-- anonymiser des projets réels pour une démonstration publique responsable ;
-- relier les enjeux métier, les données et la restitution analytique.
-
----
-
-## Méthode de travail
-
-| Étape | Description |
-|---|---|
-| Cadrage métier | Comprendre le besoin, les utilisateurs, les objectifs et les décisions à soutenir |
-| Analyse des sources | Identifier les données disponibles, leurs limites et leurs règles métier |
-| Modélisation | Structurer les tables, dimensions, relations et indicateurs |
-| Développement | Construire les scripts SQL, modèles Power BI, mesures DAX et visualisations |
-| Validation | Contrôler la cohérence, les volumes, les filtres et les résultats |
-| Documentation | Produire les README, spécifications, dictionnaires de données et notes de confidentialité |
-| Restitution | Créer une solution claire, maintenable et exploitable par les utilisateurs finaux |
+- **Comprendre le besoin métier** — clarifier les objectifs, les utilisateurs, les décisions à soutenir et les contraintes du projet.
+- **Structurer les données** — analyser les sources, définir les règles métier, modéliser les tables et préparer les indicateurs.
+- **Développer la solution analytique** — construire les traitements SQL, modèles Power BI, mesures DAX et visualisations.
+- **Fiabiliser les résultats** — contrôler la qualité, les volumes, la cohérence des filtres et la justesse des calculs.
+- **Documenter le projet** — formaliser les spécifications fonctionnelles, techniques, dictionnaires de données et README.
+- **Livrer un outil exploitable** — rendre la solution lisible, maintenable, sécurisée et compréhensible par les équipes métier.
 
 ---
 

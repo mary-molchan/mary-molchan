@@ -1,4 +1,4 @@
-# Notice
+# Before getting started / Avant de commencer
 
 <img src="https://flagcdn.com/24x18/gb.png" width="20" alt="English">  This repository contains portfolio projects created, designed and documented by Maryna Molchan. All dashboards, screenshots, data models, documentation structures, project descriptions and visual layouts are provided for portfolio and demonstration purposes only. No part of this repository may be copied, reused, republished, modified or presented as someone else’s work without explicit permission. 
 

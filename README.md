@@ -41,16 +41,58 @@ Chaque repository contient des projets anonymisés, documentés et adaptés pour
 
 ![Exemples de mes projets](https://img.shields.io/badge/Profil-Exemples%20de%20mes%20projets-228B22?style=for-the-badge)
 
-| Projet | Domaine | Objectif | Technologie principale |
-|---|---|---|---|
-| Analyse de la performance financière des apporteurs | Assurance / Finance | Suivre la collecte, la décollecte, les encours et la performance des réseaux d’apporteurs | Power BI |
-| Audit et extraction des adhérents sur 5 ans | Assurance / Adhérents | Rechercher, contrôler, consulter et extraire des données adhérents sur une fenêtre historique de 5 ans | Power BI |
-| Analyse des anomalies des flux financiers | Assurance / Finance | Suivre les anomalies de flux financiers, les montants bloqués et la dynamique de correction | Power BI |
-| Suivi des demandes métiers pour Data Produits | Data Products / Pilotage métier | Centraliser, qualifier et prioriser les demandes métiers adressées à une équipe data | Power BI |
-| Supervision des anomalies de flux métier – opérations manquantes | Assurance / Contrôle des flux | Identifier les opérations attendues mais absentes du périmètre de contrôle | Power BI |
-| Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs | Assurance / Finance | Préparer les données de performance financière des apporteurs via procédures stockées SQL | Snowflake SQL |
-| Audit Flux & Analytics Financière Courtiers | Assurance / Finance / Risk | Construire un pipeline Snowflake pour analyser les commissions, règlements, transactions et risques | Snowflake SQL |
-| Reporting Adhérents Courtiers | Assurance / Reporting opérationnel | Alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique | Snowflake SQL |
+### Power BI
+
+**Analyse de la performance financière des apporteurs**  
+Assurance / Finance  
+Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
+
+**Audit et extraction des adhérents sur 5 ans**  
+Assurance / Adhérents  
+Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans.
+
+**Analyse des anomalies des flux financiers**  
+Assurance / Finance  
+Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction.
+
+**Suivi des demandes métiers pour Data Produits**  
+Data Products / Pilotage métier  
+Solution de centralisation, qualification et priorisation des demandes métiers adressées à une équipe data.
+
+**Supervision des anomalies de flux métier – opérations manquantes**  
+Assurance / Contrôle des flux  
+Dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle.
+
+---
+
+### Snowflake SQL
+
+**Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs**  
+Assurance / Finance  
+Pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées.
+
+**Audit Flux & Analytics Financière Courtiers**  
+Assurance / Finance / Risk  
+Pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers.
+
+**Reporting Adhérents Courtiers**  
+Assurance / Reporting opérationnel  
+Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique.
+
+
+### Power BI
+
+- **Analyse de la performance financière des apporteurs** — suivi de la collecte, décollecte, encours et performance des réseaux d’apporteurs.
+- **Audit et extraction des adhérents sur 5 ans** — recherche, contrôle, consultation et extraction des données adhérents.
+- **Analyse des anomalies des flux financiers** — suivi des anomalies, montants bloqués et corrections.
+- **Suivi des demandes métiers pour Data Produits** — centralisation et priorisation des demandes métiers data.
+- **Supervision des anomalies de flux métier – opérations manquantes** — identification des opérations attendues mais absentes.
+
+### Snowflake SQL
+
+- **Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs** — préparation des données via procédures stockées Snowflake.
+- **Audit Flux & Analytics Financière Courtiers** — analyse des commissions, règlements, transactions et risques.
+- **Reporting Adhérents Courtiers** — alimentation incrémentale d’une table de reporting adhérents.
 
 ---
 
@@ -67,6 +109,16 @@ Chaque repository contient des projets anonymisés, documentés et adaptés pour
 | Data Quality | Contrôles de complétude, unicité, volumétrie, fraîcheur, cohérence et anomalies |
 | GenAI | Utilisation de l’IA générative pour automatiser, documenter et structurer les processus analytiques |
 
+
+
+- **Power BI** — dashboards, DAX, Power Query, modélisation sémantique, UX analytique.
+- **Snowflake SQL** — requêtes avancées, procédures stockées, CTE, window functions, MERGE, pipelines SQL.
+- **Data Modeling** — schémas en étoile, tables de faits, dimensions, dictionnaires de données.
+- **Analytics Engineering** — structuration de pipelines, documentation, qualité des données, reporting maintenable.
+- **Data Quality** — contrôles de complétude, unicité, volumétrie, fraîcheur, cohérence et anomalies.
+- **Python** — Pandas, NumPy, data preparation, exploration, visualisation, automatisation.
+- **Documentation** — spécifications fonctionnelles, techniques, README, runbooks, règles métier.
+- **GenAI** — automatisation, structuration et documentation des processus analytiques.
 ---
 
 ![Expérience professionnelle](https://img.shields.io/badge/Profil-Exp%C3%A9rience%20professionnelle-228B22?style=for-the-badge)

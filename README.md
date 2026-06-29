@@ -168,6 +168,16 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ---
 
+![Interventions et formations](https://img.shields.io/badge/Profil-Interventions%20%26%20formations-228B22?style=for-the-badge)
+
+<!--
+- **Intervention / formation** — Organisation / événement  
+  Sujet : *"Titre de l’intervention ou de la formation"*  
+  [Voir plus](lien-à-compléter)
+-->
+
+---
+
 ![Formation](https://img.shields.io/badge/Profil-Formation-228B22?style=for-the-badge)
 
 - **Université de Poitiers / IAE** — Bac+5, Finance et Ingénierie Financière, **2026 - 2028** *(prévue, à distance)*.

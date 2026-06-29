@@ -1,10 +1,12 @@
-![Before getting started / Avant de commencer](https://img.shields.io/badge/Before%20getting%20started%20%2F%20Avant%20de%20commencer-Notice-D94A5B?style=for-the-badge)
+![Before getting started / Avant de commencer](https://img.shields.io/badge/Before%20getting%20started%20%2F%20Avant%20de%20commencer-Notice-228B22?style=for-the-badge)
 
 <img src="https://flagcdn.com/24x18/gb.png" width="20" alt="English">  This repository contains portfolio projects created, designed and documented by Maryna Molchan. All dashboards, screenshots, data models, documentation structures, project descriptions and visual layouts are provided for portfolio and demonstration purposes only. No part of this repository may be copied, reused, republished, modified or presented as someone else’s work without explicit permission. © 2026 Maryna Molchan. All rights reserved.
 
 <img src="https://flagcdn.com/24x18/fr.png" width="20" alt="Français">  Ce dépôt contient des projets de portfolio créés, conçus et documentés par Maryna Molchan. Tous les dashboards, captures d’écran, modèles de données, structures documentaires, descriptions de projets et layouts visuels sont fournis uniquement à des fins de portfolio et de démonstration. Aucune partie de ce dépôt ne peut être copiée, réutilisée, republiée, modifiée ou présentée comme le travail d’une autre personne sans autorisation explicite. © 2026 Maryna Molchan. Tous droits réservés.
 
-# Maryna Molchan
+---
+
+![Qui suis-je ? Data Analytics Engineer](https://img.shields.io/badge/Qui%20suis--je%20%3F-Data%20Analytics%20Engineer-228B22?style=for-the-badge)
 
 Data Analytics Engineer spécialisée en **Power BI**, **Snowflake SQL**, **modélisation de données**, documentation analytique et construction de solutions de reporting orientées métier.
 
@@ -14,7 +16,7 @@ Mon approche repose sur une idée simple : transformer des données dispersées 
 
 ---
 
-## Informations clés
+![Informations clés](https://img.shields.io/badge/Profil-Informations%20cl%C3%A9s-228B22?style=for-the-badge)
 
 - Double expertise : technique **4 ans** et business / métier **11 ans**.
 - **3 certifications professionnelles** : Google, Microsoft et Snowflake.
@@ -24,8 +26,7 @@ Mon approche repose sur une idée simple : transformer des données dispersées 
 - Valeur ajoutée : structurer des données complexes, fiabiliser les indicateurs, documenter les processus et construire des solutions analytiques exploitables par les équipes métier.
 
 ---
-
-## Portfolio
+![Portfolio](https://img.shields.io/badge/Profil-Portfolio-228B22?style=for-the-badge)
 
 Mon portfolio est organisé par grandes familles de projets data.  
 Chaque repository contient des projets anonymisés, documentés et adaptés pour une démonstration publique.
@@ -38,7 +39,7 @@ Chaque repository contient des projets anonymisés, documentés et adaptés pour
 
 ---
 
-## Projets
+![Exemples de mes projets](https://img.shields.io/badge/Profil-Exemples%20de%20mes%20projets-228B22?style=for-the-badge)
 
 | Projet | Domaine | Objectif | Technologie principale |
 |---|---|---|---|
@@ -53,7 +54,7 @@ Chaque repository contient des projets anonymisés, documentés et adaptés pour
 
 ---
 
-## Compétences principales
+![Mes compétences](https://img.shields.io/badge/Profil-Mes%20comp%C3%A9tences-228B22?style=for-the-badge)
 
 | Domaine | Compétences |
 |---|---|
@@ -68,7 +69,7 @@ Chaque repository contient des projets anonymisés, documentés et adaptés pour
 
 ---
 
-## Expérience professionnelle
+![Expérience professionnelle](https://img.shields.io/badge/Profil-Exp%C3%A9rience%20professionnelle-228B22?style=for-the-badge)
 
 **Data Analytics Engineer** chez **GENERALI France** *(assurance / finance, 9 300+ employés)*, **2024 - aujourd’hui**
 
@@ -115,7 +116,7 @@ Chaque repository contient des projets anonymisés, documentés et adaptés pour
 
 ---
 
-## Formation
+![Formation](https://img.shields.io/badge/Profil-Formation-228B22?style=for-the-badge)
 
 | Diplôme / Formation | Domaine |
 |---|---|
@@ -124,6 +125,18 @@ Chaque repository contient des projets anonymisés, documentés et adaptés pour
 | Master en Biologie Computationnelle | Analyse scientifique, données, raisonnement analytique |
 | Formation Data Analyst | SQL, Power BI, Python, analyse de données |
 | Certification Power BI PL-300 | Modélisation, visualisation, DAX, Power BI Service |
+
+---
+
+![Certificats](https://img.shields.io/badge/Profil-Certificats-228B22?style=for-the-badge)
+
+- 
+-
+- 
+
+---
+
+![Mes articles](https://img.shields.io/badge/Profil-Mes%20articles-228B22?style=for-the-badge)
 
 ---
 

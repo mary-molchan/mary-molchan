@@ -38,56 +38,61 @@ Data Analytics Engineer orientée métier, fondant mon approche du travail sur u
 
 Mon portfolio est organisé par grandes familles de projets data. Chaque repository contient des projets anonymisés, documentés et adaptés pour une démonstration publique.
 
-| Repository | Contenu | Objectif |
-|---|---|---|
-| [Analytics Engineering Portfolio](https://github.com/mary-molchan/analytics-engineering-portfolio) | Projets Power BI, Snowflake SQL, modèles de données, spécifications fonctionnelles et techniques | Présenter des projets analytiques complets, structurés et documentés |
-| [Analytics Bookshelf](https://github.com/mary-molchan/analytics-bookshelf) | Bibliothèque personnelle de ressources techniques data | Organiser les ressources d’apprentissage autour de la data, BI, SQL, Python, ML et data engineering |
-| [Engineering Guidelines](https://github.com/mary-molchan/engineering-guidelines) | Guides méthodologiques autour de Power BI, Snowflake, SQL, Dataiku et analytics engineering | Formaliser des standards de travail et bonnes pratiques data |
+- [**Analytics Engineering Portfolio**](https://github.com/mary-molchan/analytics-engineering-portfolio)  
+  Projets Power BI, Snowflake SQL, modèles de données, spécifications fonctionnelles et techniques.  
+  Objectif : présenter des projets analytiques complets, structurés et documentés.
+
+- [**Analytics Bookshelf**](https://github.com/mary-molchan/analytics-bookshelf)  
+  Bibliothèque personnelle de ressources techniques data.  
+  Objectif : organiser les ressources d’apprentissage autour de la data, BI, SQL, Python, machine learning et data engineering.
+
+- [**Engineering Guidelines**](https://github.com/mary-molchan/engineering-guidelines)  
+  Guides méthodologiques autour de Power BI, Snowflake SQL, Dataiku et analytics engineering.  
+  Objectif : formaliser des standards de travail et des bonnes pratiques data.
 
 ---
 
 ![Exemples de mes projets](https://img.shields.io/badge/Profil-Exemples%20de%20mes%20projets-228B22?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/1-228B22?style=for-the-badge" height="16"> **Analyse de la performance financière des apporteurs**  
-Outil principal : Power BI
-Domain : Assurance / Finance  
-Résumé du projet : Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
+- <img src="https://img.shields.io/badge/-1-228B22?style=for-the-badge" height="16"> **Analyse de la performance financière des apporteurs**  
+  **Outil principal :** Power BI  
+  **Domaine :** Assurance / Finance  
+  **Résumé du projet :** Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
 
-<img src="https://img.shields.io/badge/2-228B22?style=for-the-badge" height="16"> **Audit et extraction des adhérents sur 5 ans**  
-Outil principal : Power BI
-Domain : Assurance / Finance    
-Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans.
+- <img src="https://img.shields.io/badge/-2-228B22?style=for-the-badge" height="16"> **Audit et extraction des adhérents sur 5 ans**  
+  **Outil principal :** Power BI  
+  **Domaine :** Assurance / Adhérents  
+  **Résumé du projet :** Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans.
 
-<img src="https://img.shields.io/badge/3-228B22?style=for-the-badge" height="16"> **Analyse des anomalies des flux financiers**  
-Outil principal : Power BI
-Domain : Assurance / Finance    
-Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction.
+- <img src="https://img.shields.io/badge/-3-228B22?style=for-the-badge" height="16"> **Analyse des anomalies des flux financiers**  
+  **Outil principal :** Power BI  
+  **Domaine :** Assurance / Finance  
+  **Résumé du projet :** Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction.
 
-<img src="https://img.shields.io/badge/4-228B22?style=for-the-badge" height="16"> **Suivi des demandes métiers pour Data Produits**  
-Outil principal : Power BI
-Domain : Assurance / Finance   
-Solution de centralisation, qualification et priorisation des demandes métiers adressées à une équipe data.
+- <img src="https://img.shields.io/badge/-4-228B22?style=for-the-badge" height="16"> **Suivi des demandes métiers pour Data Produits**  
+  **Outil principal :** Power BI  
+  **Domaine :** Data Products / Pilotage métier  
+  **Résumé du projet :** Solution de centralisation, qualification et priorisation des demandes métiers adressées à une équipe data.
 
-<img src="https://img.shields.io/badge/5-228B22?style=for-the-badge" height="16"> **Supervision des anomalies de flux métier – opérations manquantes**  
-Outil principal : Power BI
-Domain : Assurance / Finance    
-Dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle.
+- <img src="https://img.shields.io/badge/-5-228B22?style=for-the-badge" height="16"> **Supervision des anomalies de flux métier – opérations manquantes**  
+  **Outil principal :** Power BI  
+  **Domaine :** Assurance / Contrôle des flux  
+  **Résumé du projet :** Dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle.
 
-<img src="https://img.shields.io/badge/6-228B22?style=for-the-badge" height="16"> **Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs**  
-Outil principal : Snowflake SQL
-Domain : Assurance / Finance   
-Pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées.
+- <img src="https://img.shields.io/badge/-6-228B22?style=for-the-badge" height="16"> **Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs**  
+  **Outil principal :** Snowflake SQL  
+  **Domaine :** Assurance / Finance  
+  **Résumé du projet :** Pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées.
 
-<img src="https://img.shields.io/badge/7-228B22?style=for-the-badge" height="16"> **Audit Flux & Analytics Financière Courtiers**  
-Outil principal : Snowflake SQL
-Domain : Assurance / Finance    
-Pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers.
+- <img src="https://img.shields.io/badge/-7-228B22?style=for-the-badge" height="16"> **Audit Flux & Analytics Financière Courtiers**  
+  **Outil principal :** Snowflake SQL  
+  **Domaine :** Assurance / Finance / Risk  
+  **Résumé du projet :** Pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers.
 
-<img src="https://img.shields.io/badge/8-228B22?style=for-the-badge" height="16"> **Reporting Adhérents Courtiers**  
-Outil principal : Snowflake SQL
-Domain : Assurance / Finance     
-Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique.
-
+- <img src="https://img.shields.io/badge/-8-228B22?style=for-the-badge" height="16"> **Reporting Adhérents Courtiers**  
+  **Outil principal :** Snowflake SQL  
+  **Domaine :** Assurance / Reporting opérationnel  
+  **Résumé du projet :** Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique.
 
 ---
 

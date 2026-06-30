@@ -197,8 +197,6 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ![Comment me contacter](https://img.shields.io/badge/Profil-Comment%20me%20contacter-228B22?style=for-the-badge)
 
-| Plateforme | Lien |
-|---|---|
-| LinkedIn | [linkedin.com/in/mmolc](https://www.linkedin.com/in/mmolc/) |
-| GitHub | [github.com/mary-molchan](https://github.com/mary-molchan) |
-| Email | [molchan.mary@gmail.com](mailto:molchan.mary@gmail.com) |
+- **LinkedIn** : [linkedin.com/in/mmolc](https://www.linkedin.com/in/mmolc/)
+- **GitHub** : [github.com/mary-molchan](https://github.com/mary-molchan)
+- **Email** : [molchan.mary@gmail.com](mailto:molchan.mary@gmail.com)

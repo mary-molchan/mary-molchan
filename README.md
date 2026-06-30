@@ -95,6 +95,16 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
   **Domaine :** Assurance / Reporting opérationnel  
   **Résumé du projet :** Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique.
 
+  - **[Spec-Driven Workflow for Power BI Dashboard](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/gen-ai-projects/01_Spec_Driven_Workflow_for_Power_BI_Dashboard)**  
+  **Outil principal :** GenAI 
+  **Domaine :** BI, documentation analytique, spécifications fonctionnelles et techniques  
+  **Résumé du projet :** Workflow assisté par IA générative permettant de transformer un besoin métier non structuré en package de spécifications prêt pour la conception et le développement d’un dashboard Power BI.
+
+- **[Spec-Driven Workflow for Snowflake SQL Stored Procedure Creation](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/gen-ai-projects/02-spec-driven-workflow-snowflake-sql-stored-procedure-creation)**  
+  **Outil principal :** GenAI  
+  **Domaine :** Data engineering, SQL, documentation technique, delivery package  
+  **Résumé du projet :** Workflow assisté par IA générative pour concevoir, générer, relire et valider une procédure stockée Snowflake SQL à partir d’un besoin métier ou technique structuré.
+
 ---
 
 ![Mes compétences](https://img.shields.io/badge/Profil-Mes%20comp%C3%A9tences-228B22?style=for-the-badge)

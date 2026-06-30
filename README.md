@@ -6,7 +6,7 @@
 
 ---
 
-![Qui suis-je ? Data Analytics Engineer](https://img.shields.io/badge/Qui%20suis--je%20%3F-Data%20Analytics%20Engineer-228B22?style=for-the-badge)
+![Qui suis-je ?](https://img.shields.io/badge/Profil-Qui%20suis--je%20%3F-228B22?style=for-the-badge)
 
 Data Analytics Engineer orientée métier, fondant mon approche du travail sur une idée simple : transformer des données dispersées ou complexes en systèmes clairs, documentés et utiles à la prise de décision.
 
@@ -15,7 +15,7 @@ Data Analytics Engineer orientée métier, fondant mon approche du travail sur u
 ---
 
 
-🧩 **Ma méthode de travail** :
+![Ma méthode de travail](https://img.shields.io/badge/Profil-Ma%20m%C3%A9thode%20de%20travail-228B22?style=for-the-badge)
 
 - **Comprendre le besoin métier** :  clarifier les objectifs, les utilisateurs, les décisions à soutenir et les contraintes du projet
 - **Structurer les données** :  analyser les sources, définir les règles métier, modéliser les tables et préparer les indicateurs

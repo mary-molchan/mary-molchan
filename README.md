@@ -10,12 +10,12 @@
 
 Data Analytics Engineer orientée métier, fondant mon approche du travail sur une idée simple : transformer des données dispersées ou complexes en systèmes clairs, documentés et utiles à la prise de décision.
 
-<img width="1202" height="641" alt="image" src="https://github.com/user-attachments/assets/0b184928-21c5-4af2-8f3d-821a0457e8aa" />
+<img width="801" height="427" alt="image" src="https://github.com/user-attachments/assets/0b184928-21c5-4af2-8f3d-821a0457e8aa" />
 
 ---
 
 
-**Ma méthode de travail** :
+🧩 **Ma méthode de travail** :
 
 - **Comprendre le besoin métier** :  clarifier les objectifs, les utilisateurs, les décisions à soutenir et les contraintes du projet
 - **Structurer les données** :  analyser les sources, définir les règles métier, modéliser les tables et préparer les indicateurs

@@ -12,6 +12,8 @@ Data Analytics Engineer orientée métier, fondant mon approche du travail sur u
 
 <img width="1202" height="641" alt="image" src="https://github.com/user-attachments/assets/0b184928-21c5-4af2-8f3d-821a0457e8aa" />
 
+---
+
 
 **Ma méthode de travail** :
 

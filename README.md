@@ -46,42 +46,42 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ![Exemples de mes projets](https://img.shields.io/badge/Profil-Exemples%20de%20mes%20projets-228B22?style=for-the-badge)
 
-1️⃣ **Analyse de la performance financière des apporteurs**  
+<img src="https://img.shields.io/badge/1-228B22?style=for-the-badge" height="16"> **Analyse de la performance financière des apporteurs**  
 Outil principal : Power BI
 Domain : Assurance / Finance  
 Résumé du projet : Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
 
-2️⃣ **Audit et extraction des adhérents sur 5 ans**  
+<img src="https://img.shields.io/badge/2-228B22?style=for-the-badge" height="16"> **Audit et extraction des adhérents sur 5 ans**  
 Outil principal : Power BI
 Domain : Assurance / Finance    
 Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans.
 
-**Analyse des anomalies des flux financiers**  
+<img src="https://img.shields.io/badge/3-228B22?style=for-the-badge" height="16"> **Analyse des anomalies des flux financiers**  
 Outil principal : Power BI
 Domain : Assurance / Finance    
 Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction.
 
-**Suivi des demandes métiers pour Data Produits**  
+<img src="https://img.shields.io/badge/4-228B22?style=for-the-badge" height="16"> **Suivi des demandes métiers pour Data Produits**  
 Outil principal : Power BI
 Domain : Assurance / Finance   
 Solution de centralisation, qualification et priorisation des demandes métiers adressées à une équipe data.
 
-**Supervision des anomalies de flux métier – opérations manquantes**  
+<img src="https://img.shields.io/badge/5-228B22?style=for-the-badge" height="16"> **Supervision des anomalies de flux métier – opérations manquantes**  
 Outil principal : Power BI
 Domain : Assurance / Finance    
 Dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle.
 
-**Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs**  
+<img src="https://img.shields.io/badge/6-228B22?style=for-the-badge" height="16"> **Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs**  
 Outil principal : Snowflake SQL
 Domain : Assurance / Finance   
 Pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées.
 
-**Audit Flux & Analytics Financière Courtiers**  
+<img src="https://img.shields.io/badge/7-228B22?style=for-the-badge" height="16"> **Audit Flux & Analytics Financière Courtiers**  
 Outil principal : Snowflake SQL
 Domain : Assurance / Finance    
 Pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers.
 
-**Reporting Adhérents Courtiers**  
+<img src="https://img.shields.io/badge/8-228B22?style=for-the-badge" height="16"> **Reporting Adhérents Courtiers**  
 Outil principal : Snowflake SQL
 Domain : Assurance / Finance     
 Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique.
@@ -91,14 +91,14 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ![Mes compétences](https://img.shields.io/badge/Profil-Mes%20comp%C3%A9tences-228B22?style=for-the-badge)
 
-- **Power BI** — dashboards, DAX, Power Query, modélisation sémantique, UX analytique.
-- **Snowflake SQL** — requêtes avancées, procédures stockées, CTE, window functions, MERGE, pipelines SQL.
-- **Data Modeling** — schémas en étoile, tables de faits, dimensions, dictionnaires de données.
-- **Analytics Engineering** — structuration de pipelines, documentation, qualité des données, reporting maintenable.
-- **Data Quality** — contrôles de complétude, unicité, volumétrie, fraîcheur, cohérence et anomalies.
-- **Python** — Pandas, NumPy, data preparation, exploration, visualisation, automatisation.
-- **Documentation** — spécifications fonctionnelles, techniques, README, runbooks, règles métier.
-- **GenAI** — automatisation, structuration et documentation des processus analytiques.
+- **Power BI** — dashboards, DAX, Power Query, modélisation sémantique, UX analytique
+- **Snowflake SQL** — requêtes avancées, procédures stockées, CTE, window functions, MERGE, pipelines SQL
+- **Data Modeling** — schémas en étoile, tables de faits, dimensions, dictionnaires de données
+- **Analytics Engineering** — structuration de pipelines, documentation, qualité des données, reporting maintenable
+- **Data Quality** — contrôles de complétude, unicité, volumétrie, fraîcheur, cohérence et anomalies
+- **Python** — Pandas, NumPy, data preparation, exploration, visualisation, automatisation
+- **Documentation** — spécifications fonctionnelles, techniques, README, runbooks, règles métier
+- **GenAI** — automatisation, structuration et documentation des processus analytiques
 ---
 
 ![Expérience professionnelle](https://img.shields.io/badge/Profil-Exp%C3%A9rience%20professionnelle-228B22?style=for-the-badge)
@@ -148,16 +148,6 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ---
 
-![Interventions et formations](https://img.shields.io/badge/Profil-Interventions%20%26%20formations-228B22?style=for-the-badge)
-
-<!--
-- **Intervention / formation** — Organisation / événement  
-  Sujet : *"Titre de l’intervention ou de la formation"*  
-  [Voir plus](lien-à-compléter)
--->
-
----
-
 ![Formation](https://img.shields.io/badge/Profil-Formation-228B22?style=for-the-badge)
 
 - **Université de Poitiers / IAE** — Bac+5, Intelligence économique, **2024 - 2025** *(finalisé avec mention, à distance)*.
@@ -168,10 +158,18 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ![Certificats](https://img.shields.io/badge/Profil-Certificats-228B22?style=for-the-badge)
 
-- [**Power BI Data Analyst PL-300**](lien-vers-le-certificat) — Microsoft, 2026.
-- [**AWS Certified Cloud Practitioner**](lien-vers-le-certificat) — AWS, 2023.
-- [**Google Business Intelligence**](lien-vers-le-certificat) — Google, 2023.
-- **SnowPro® Core Certification** — Snowflake, prévue en septembre 2026.
+
+
+- [**Power BI Data Analyst PL-300**](https://learn.microsoft.com/en-us/users/marynamolchan-0506/credentials/33687dcbb5beff76?ref=https%3A%2F%2Fwww.linkedin.com%2F) - Microsoft, 2026
+- [**Machine Learning Pipeline using Dataiku**](https://coursera.org/share/6c88ab1d408af288f87914c2e02d9d5a) - Dataiku, 2024
+- [**Dataiku Core Designer**](https://verify.skilljar.com/c/hwwcem3q666a) - Dataiku, 2024
+- [**Tableau Business Intelligence Analyst Specialization**](https://coursera.org/share/1e9d9d00cae3c5e92503c1d76a029fc9) - Tableau, 2024
+- [**Google Business Intelligence Certificate**](https://coursera.org/share/d1b954033804cf4df7b9361f6ea5bd94) - Google, octobre 2023
+- [**Data-Driven Process Improvement**](https://coursera.org/share/30bdd0b2e0ac4b967c7a3bc5c833af07) - University at Buffalo, septembre 2023
+- [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/ac86ffaf-a404-4706-81ac-5a36fd549ae1/public_url) - AWS, 2023
+- [**International and Cross-Cultural Negotiation**](https://coursera.org/share/72bf2254c7acc08858ff1d9cb8cd7f18) — ESSEC Business School, 2022
+- [**Analytics and data processing in Microsoft Power BI**](https://coursera.org/share/27e86b004c90fc258f0bda47023861d1) - Moscow Institute of Physics and Technology, 2021
+- [**People Analytics**](https://coursera.org/share/8e984104252a8aaf9ea27bc662a2386c) — University of Pennsylvania, 2021
 
 ---
 

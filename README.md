@@ -27,11 +27,12 @@ Data Analytics Engineer orientée métier, fondant mon approche du travail sur u
 
 ![Informations clés](https://img.shields.io/badge/Profil-Informations%20cl%C3%A9s-228B22?style=for-the-badge)
 
-- **Double expertise** : technique **4 ans** et business / métier **11 ans**
+- **Double expertise** : **5 ans** d’expérience en analyse technique et **10+ ans** en analyse business / métier
 - **3 certifications professionnelles** : AWS, Google, Microsoft
 - **Expérience multi-environnements** : start-ups, PME, grands groupes, ESN
 - **Expérience multi-domaines** : assurance, finance, télécommunications, e-commerce, services numériques, ressources humaines, performance organisationnelle, transformation des processus, développement logiciel
 - **Langues** : français, anglais, russe, ukrainien
+- **Autorisation de travail** : titre de séjour pluriannuel avec autorisation de travail en France
 
 ---
 ![Portfolio](https://img.shields.io/badge/Profil-Portfolio-228B22?style=for-the-badge)
@@ -98,14 +99,14 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ![Mes compétences](https://img.shields.io/badge/Profil-Mes%20comp%C3%A9tences-228B22?style=for-the-badge)
 
-- **Power BI** — dashboards, DAX, Power Query, modélisation sémantique, UX analytique
-- **Snowflake SQL** — requêtes avancées, procédures stockées, CTE, window functions, MERGE, pipelines SQL
-- **Data Modeling** — schémas en étoile, tables de faits, dimensions, dictionnaires de données
-- **Analytics Engineering** — structuration de pipelines, documentation, qualité des données, reporting maintenable
-- **Data Quality** — contrôles de complétude, unicité, volumétrie, fraîcheur, cohérence et anomalies
-- **Python** — Pandas, NumPy, data preparation, exploration, visualisation, automatisation
-- **Documentation** — spécifications fonctionnelles, techniques, README, runbooks, règles métier
-- **GenAI** — automatisation, structuration et documentation des processus analytiques
+- **Power BI** : modélisation sémantique, data visualization, Power Query, DAX
+- **SQL avancé** : requêtes analytiques, window functions, optimisation des requêtes, Snowflake-specific SQL
+- **Snowflake** : architecture cloud, gestion des warehouses, stratégies de chargement des données
+- **Python** : nettoyage et préparation des données, Pandas, NumPy, analyses exploratoires et statistiques, visualisation avec Matplotlib, Seaborn et Plotly, bases de ML
+- **Dataiku** : pipelines ELT / ETL, orchestration des flux analytiques, automatisation des workflows, data quality
+- **IA générative** : Microsoft Copilot, Perplexity, NotebookLM, automatisation et documentation des processus data
+- **Méthodologies et outils** : Git, Jira, Confluence, Agile / Scrum, Data Mesh, OKR, Stakeholder Matrix, SWOT
+
 ---
 
 ![Expérience professionnelle](https://img.shields.io/badge/Profil-Exp%C3%A9rience%20professionnelle-228B22?style=for-the-badge)

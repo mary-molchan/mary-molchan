@@ -91,19 +91,6 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ![Mes compétences](https://img.shields.io/badge/Profil-Mes%20comp%C3%A9tences-228B22?style=for-the-badge)
 
-| Domaine | Compétences |
-|---|---|
-| Power BI | Data visualization, DAX, Power Query, modélisation sémantique, dashboards, UX analytique |
-| Snowflake SQL | CTE, window functions, procédures stockées, MERGE, pipelines SQL, préparation de données |
-| Data Modeling | Schéma en étoile, tables de faits, dimensions, dictionnaires de données, règles de transformation |
-| Analytics Engineering | Structuration de pipelines, documentation, qualité des données, reporting fiable et maintenable |
-| Documentation | Spécifications fonctionnelles, spécifications techniques, README, dictionnaires de données, runbooks |
-| Python | Pandas, NumPy, data preparation, exploration, visualisation, automatisation |
-| Data Quality | Contrôles de complétude, unicité, volumétrie, fraîcheur, cohérence et anomalies |
-| GenAI | Utilisation de l’IA générative pour automatiser, documenter et structurer les processus analytiques |
-
-
-
 - **Power BI** — dashboards, DAX, Power Query, modélisation sémantique, UX analytique.
 - **Snowflake SQL** — requêtes avancées, procédures stockées, CTE, window functions, MERGE, pipelines SQL.
 - **Data Modeling** — schémas en étoile, tables de faits, dimensions, dictionnaires de données.
@@ -173,7 +160,6 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ![Formation](https://img.shields.io/badge/Profil-Formation-228B22?style=for-the-badge)
 
-- **Université de Poitiers / IAE** — Bac+5, Finance et Ingénierie Financière, **2026 - 2028** *(prévue, à distance)*.
 - **Université de Poitiers / IAE** — Bac+5, Intelligence économique, **2024 - 2025** *(finalisé avec mention, à distance)*.
 - **OpenClassrooms** — Bac+4, Analyse des données, **2024** *(finalisé en alternance chez Generali)*.
 - **Université Catholique Ukrainienne** — Bac+5, Gestion des RH et développement organisationnel, **2016 - 2018**.
@@ -193,36 +179,10 @@ Traitement SQL permettant d’alimenter une table de reporting adhérents avec l
 
 ---
 
-![Méthode de travail](https://img.shields.io/badge/Profil-M%C3%A9thode%20de%20travail-228B22?style=for-the-badge)
-
-- **Comprendre le besoin métier** — clarifier les objectifs, les utilisateurs, les décisions à soutenir et les contraintes du projet.
-- **Structurer les données** — analyser les sources, définir les règles métier, modéliser les tables et préparer les indicateurs.
-- **Développer la solution analytique** — construire les traitements SQL, modèles Power BI, mesures DAX et visualisations.
-- **Fiabiliser les résultats** — contrôler la qualité, les volumes, la cohérence des filtres et la justesse des calculs.
-- **Documenter le projet** — formaliser les spécifications fonctionnelles, techniques, dictionnaires de données et README.
-- **Livrer un outil exploitable** — rendre la solution lisible, maintenable, sécurisée et compréhensible par les équipes métier.
-
----
-
-## Centres d’intérêt professionnels
-
-- Analytics engineering
-- Business intelligence
-- Data quality
-- Data modeling
-- Power BI
-- Snowflake
-- Documentation data
-- Data Mesh
-- Gouvernance des données
-- Intelligence artificielle générative appliquée aux processus data
-
----
-
-## Contact
+![Comment me contacter](https://img.shields.io/badge/Profil-Comment%20me%20contacter-228B22?style=for-the-badge)
 
 | Plateforme | Lien |
 |---|---|
-| LinkedIn | [À compléter] |
-| GitHub | [https://github.com/mary-molchan](https://github.com/mary-molchan) |
-| Email | [À compléter] |
+| LinkedIn | [linkedin.com/in/mmolc](https://www.linkedin.com/in/mmolc/) |
+| GitHub | [github.com/mary-molchan](https://github.com/mary-molchan) |
+| Email | [molchan.mary@gmail.com](mailto:molchan.mary@gmail.com) |

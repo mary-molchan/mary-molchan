@@ -56,19 +56,19 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 ![Exemples de mes projets](https://img.shields.io/badge/Profil-Exemples%20de%20mes%20projets-228B22?style=for-the-badge)
 
 - **[Analyse de la performance financière des apporteurs](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/analyse-performance-financiere-apporteurs)**  
-  **Outil principal :** Power BI  
-  **Domaine :** Assurance / Finance  
-  **Résumé du projet :** Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
+    **Outil principal :** Power BI  
+    **Domaine :** Assurance / Finance  
+    **Résumé du projet :** Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
 
 - **[Audit et extraction des adhérents sur 5 ans](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/audit-extraction-adherents-5-ans)**  
-  **Outil principal :** Power BI  
-  **Domaine :** Assurance / Adhérents  
-  **Résumé du projet :** Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans.
+    **Outil principal :** Power BI  
+    **Domaine :** Assurance / Adhérents  
+    **Résumé du projet :** Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans.
 
 - **[Analyse des anomalies des flux financiers](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/analyse-anomalies-flux-financiers)**  
-  **Outil principal :** Power BI  
-  **Domaine :** Assurance / Finance  
-  **Résumé du projet :** Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction.
+    **Outil principal :** Power BI  
+    **Domaine :** Assurance / Finance  
+    **Résumé du projet :** Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction.
 
 - **[Suivi des demandes métiers pour Data Produits](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/suivi-demandes-metiers-data-produits)**  
   **Outil principal :** Power BI  
@@ -123,10 +123,10 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ✅ **Data Analytics Engineer** chez **GENERALI France** *(assurance / finance, 9 300+ employés)*, **2024 - aujourd’hui**
 
-- Réalisé une analyse annuelle des contrats d’assurance avec une vision 360° de la performance financière.
-- Créé 30+ procédures stockées complexes et optimisé 50+ requêtes Snowflake SQL.
-- Développé un modèle d’automatisation des dashboards à plusieurs niveaux avec un budget limité.
-- Élaboré 18 dashboards Power BI multi-pages avec une modélisation en schéma en étoile et une logique Snowflake.
+  - Réalisé une analyse annuelle des contrats d’assurance avec une vision 360° de la performance financière.
+  - Créé 30+ procédures stockées complexes et optimisé 50+ requêtes Snowflake SQL.
+  - Développé un modèle d’automatisation des dashboards à plusieurs niveaux avec un budget limité.
+  - Élaboré 18 dashboards Power BI multi-pages avec une modélisation en schéma en étoile et une logique Snowflake.
 
 ✅ **Consultante fonctionnelle Data** chez **SFB Consulting** *(cabinet de conseil)*, **2022 - 2024**
 
@@ -136,9 +136,9 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ✅ **Business Intelligence Engineer** chez **SoftServe** *(ESN, 10 000+ employés)*, **2021 - 2022**
 
-- Traduit les besoins métier en spécifications data, réduisant les allers-retours projet de 20 à 30 %.
-- Développé et maintenu des datasets analytiques fiables en SQL, adaptés aux usages Power BI.
-- Formalisé des KPI clés, utilisés comme référentiel commun par plusieurs équipes métier.
+    - Traduit les besoins métier en spécifications data, réduisant les allers-retours projet de 20 à 30 %.
+    - Développé et maintenu des datasets analytiques fiables en SQL, adaptés aux usages Power BI.
+    - Formalisé des KPI clés, utilisés comme référentiel commun par plusieurs équipes métier.
 
 ✅ **Data Warehouse Business INtelligence Engineer** chez **EPAM Systems** *(ESN, 62 750+ employés)*, **2021**
 
@@ -182,8 +182,8 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 - [**Machine Learning Pipeline using Dataiku**](https://coursera.org/share/6c88ab1d408af288f87914c2e02d9d5a) - Dataiku, 2024
 - [**Dataiku Core Designer**](https://verify.skilljar.com/c/hwwcem3q666a) - Dataiku, 2024
 - [**Tableau Business Intelligence Analyst Specialization**](https://coursera.org/share/1e9d9d00cae3c5e92503c1d76a029fc9) - Tableau, 2024
-- [**Google Business Intelligence Certificate**](https://coursera.org/share/d1b954033804cf4df7b9361f6ea5bd94) - Google, octobre 2023
-- [**Data-Driven Process Improvement**](https://coursera.org/share/30bdd0b2e0ac4b967c7a3bc5c833af07) - University at Buffalo, septembre 2023
+- [**Google Business Intelligence Certificate**](https://coursera.org/share/d1b954033804cf4df7b9361f6ea5bd94) - Google, 2023
+- [**Data-Driven Process Improvement**](https://coursera.org/share/30bdd0b2e0ac4b967c7a3bc5c833af07) - University at Buffalo, 2023
 - [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/ac86ffaf-a404-4706-81ac-5a36fd549ae1/public_url) - AWS, 2023
 - [**International and Cross-Cultural Negotiation**](https://coursera.org/share/72bf2254c7acc08858ff1d9cb8cd7f18) — ESSEC Business School, 2022
 - [**Analytics and data processing in Microsoft Power BI**](https://coursera.org/share/27e86b004c90fc258f0bda47023861d1) - Moscow Institute of Physics and Technology, 2021

@@ -8,28 +8,33 @@
 
 ![Qui suis-je ? Data Analytics Engineer](https://img.shields.io/badge/Qui%20suis--je%20%3F-Data%20Analytics%20Engineer-228B22?style=for-the-badge)
 
-Data Analytics Engineer spécialisée en **Power BI**, **Snowflake SQL**, **modélisation de données**, documentation analytique et construction de solutions de reporting orientées métier.
+Data Analytics Engineer orientée métier, fondant mon approche du travail sur une idée simple : transformer des données dispersées ou complexes en systèmes clairs, documentés et utiles à la prise de décision.
 
-Je conçois des projets data de bout en bout : compréhension du besoin métier, structuration des données, préparation des pipelines, création de modèles analytiques, développement de dashboards Power BI, documentation fonctionnelle et technique, puis mise à disposition d’outils lisibles, maintenables et exploitables par les équipes métier.
+<img width="1202" height="641" alt="image" src="https://github.com/user-attachments/assets/0b184928-21c5-4af2-8f3d-821a0457e8aa" />
 
-Mon approche repose sur une idée simple : transformer des données dispersées ou complexes en systèmes clairs, documentés et utiles pour la décision.
 
+**Ma méthode de travail** :
+
+- **Comprendre le besoin métier** :  clarifier les objectifs, les utilisateurs, les décisions à soutenir et les contraintes du projet
+- **Structurer les données** :  analyser les sources, définir les règles métier, modéliser les tables et préparer les indicateurs
+- **Développer la solution analytique** :  construire les traitements SQL, modèles Power BI, mesures DAX et visualisations
+- **Fiabiliser les résultats** :  contrôler la qualité, les volumes, la cohérence des filtres et la justesse des calculs
+- **Documenter le projet** :  formaliser les spécifications fonctionnelles, techniques, dictionnaires de données
+- **Livrer un outil exploitable** :  rendre la solution lisible, maintenable, sécurisée et compréhensible par les équipes métier
 ---
 
 ![Informations clés](https://img.shields.io/badge/Profil-Informations%20cl%C3%A9s-228B22?style=for-the-badge)
 
-- Double expertise : technique **4 ans** et business / métier **11 ans**.
-- **3 certifications professionnelles** : Google, Microsoft et Snowflake.
-- Expérience multi-environnements : start-ups, PME, grands groupes, ESN.
-- Expérience multi-domaines : assurance, finance, télécommunications, e-commerce, services numériques, ressources humaines, performance organisationnelle, transformation des processus, développement logiciel.
-- Positionnement : Data Analytics Engineer orientée Power BI, Snowflake SQL, modélisation de données, qualité des données et reporting décisionnel.
-- Valeur ajoutée : structurer des données complexes, fiabiliser les indicateurs, documenter les processus et construire des solutions analytiques exploitables par les équipes métier.
+- **Double expertise** : technique **4 ans** et business / métier **11 ans**
+- **3 certifications professionnelles** : AWS, Google, Microsoft
+- **Expérience multi-environnements** : start-ups, PME, grands groupes, ESN
+- **Expérience multi-domaines** : assurance, finance, télécommunications, e-commerce, services numériques, ressources humaines, performance organisationnelle, transformation des processus, développement logiciel
+- **Langues** : français, anglais, russe, ukrainien
 
 ---
 ![Portfolio](https://img.shields.io/badge/Profil-Portfolio-228B22?style=for-the-badge)
 
-Mon portfolio est organisé par grandes familles de projets data.  
-Chaque repository contient des projets anonymisés, documentés et adaptés pour une démonstration publique.
+Mon portfolio est organisé par grandes familles de projets data. Chaque repository contient des projets anonymisés, documentés et adaptés pour une démonstration publique.
 
 | Repository | Contenu | Objectif |
 |---|---|---|
@@ -41,58 +46,46 @@ Chaque repository contient des projets anonymisés, documentés et adaptés pour
 
 ![Exemples de mes projets](https://img.shields.io/badge/Profil-Exemples%20de%20mes%20projets-228B22?style=for-the-badge)
 
-### Power BI
+1️⃣ **Analyse de la performance financière des apporteurs**  
+Outil principal : Power BI
+Domain : Assurance / Finance  
+Résumé du projet : Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
 
-**Analyse de la performance financière des apporteurs**  
-Assurance / Finance  
-Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
-
-**Audit et extraction des adhérents sur 5 ans**  
-Assurance / Adhérents  
+2️⃣ **Audit et extraction des adhérents sur 5 ans**  
+Outil principal : Power BI
+Domain : Assurance / Finance    
 Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans.
 
 **Analyse des anomalies des flux financiers**  
-Assurance / Finance  
+Outil principal : Power BI
+Domain : Assurance / Finance    
 Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction.
 
 **Suivi des demandes métiers pour Data Produits**  
-Data Products / Pilotage métier  
+Outil principal : Power BI
+Domain : Assurance / Finance   
 Solution de centralisation, qualification et priorisation des demandes métiers adressées à une équipe data.
 
 **Supervision des anomalies de flux métier – opérations manquantes**  
-Assurance / Contrôle des flux  
+Outil principal : Power BI
+Domain : Assurance / Finance    
 Dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle.
 
----
-
-### Snowflake SQL
-
 **Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs**  
-Assurance / Finance  
+Outil principal : Snowflake SQL
+Domain : Assurance / Finance   
 Pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées.
 
 **Audit Flux & Analytics Financière Courtiers**  
-Assurance / Finance / Risk  
+Outil principal : Snowflake SQL
+Domain : Assurance / Finance    
 Pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers.
 
 **Reporting Adhérents Courtiers**  
-Assurance / Reporting opérationnel  
+Outil principal : Snowflake SQL
+Domain : Assurance / Finance     
 Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique.
 
-
-### Power BI
-
-- **Analyse de la performance financière des apporteurs** — suivi de la collecte, décollecte, encours et performance des réseaux d’apporteurs.
-- **Audit et extraction des adhérents sur 5 ans** — recherche, contrôle, consultation et extraction des données adhérents.
-- **Analyse des anomalies des flux financiers** — suivi des anomalies, montants bloqués et corrections.
-- **Suivi des demandes métiers pour Data Produits** — centralisation et priorisation des demandes métiers data.
-- **Supervision des anomalies de flux métier – opérations manquantes** — identification des opérations attendues mais absentes.
-
-### Snowflake SQL
-
-- **Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs** — préparation des données via procédures stockées Snowflake.
-- **Audit Flux & Analytics Financière Courtiers** — analyse des commissions, règlements, transactions et risques.
-- **Reporting Adhérents Courtiers** — alimentation incrémentale d’une table de reporting adhérents.
 
 ---
 

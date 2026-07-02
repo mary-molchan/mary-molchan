@@ -66,26 +66,15 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 - <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Supervision des anomalies de flux métier – opérations manquantes (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/05-supervision-anomalies-flux-metier-operations-manquantes)** - dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle
 
-- **[Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Pipeline_Apporteurs)**  
-  **Outil principal :** Snowflake SQL  
-  **Résumé du projet :** Pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées
+- <img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/663a1777-c456-4a74-866a-f6fda6ecc0f0" /> **[Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Pipeline_Apporteurs)** - pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées
 
-- **[Audit Flux & Analytics Financière Courtiers (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Audit_Flux)**  
-  **Outil principal :** Snowflake SQL  
-  **Résumé du projet :** Pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers
+- <img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/663a1777-c456-4a74-866a-f6fda6ecc0f0" /> **[Audit Flux & Analytics Financière Courtiers (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Audit_Flux)** - pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers
 
-- **[Reporting Adhérents Courtiers (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Reporting_Adherents_Courtiers)**  
-  **Outil principal :** Snowflake SQL  
-  **Résumé du projet :** Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique
+- <img width="65" height="20" alt="image" src="https://github.com/user-attachments/assets/663a1777-c456-4a74-866a-f6fda6ecc0f0" />  **[Reporting Adhérents Courtiers (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Reporting_Adherents_Courtiers)** - traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique
 
-- **[Spec-Driven Workflow for Power BI Dashboard (EN)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/gen-ai-projects/01_Spec_Driven_Workflow_for_Power_BI_Dashboard)**  
-  **Outil principal :** GenAI 
-  **Résumé du projet :** Workflow assisté par IA générative permettant de transformer un besoin métier non structuré en package de spécifications prêt pour la conception et le développement d’un dashboard Power BI
+- <img width="70" height="18" alt="image" src="https://github.com/user-attachments/assets/12626fac-1c36-4139-9174-b1652b87a0a9" /> **[Spec-Driven Workflow for Power BI Dashboard (EN)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/gen-ai-projects/01_Spec_Driven_Workflow_for_Power_BI_Dashboard)** - workflow assisté par IA générative permettant de transformer un besoin métier non structuré en package de spécifications prêt pour la conception et le développement d’un dashboard Power BI
 
-- **[Spec-Driven Workflow for Snowflake SQL Stored Procedure Creation (EN)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/gen-ai-projects/02-spec-driven-workflow-snowflake-sql-stored-procedure-creation)**  
-  **Outil principal :** GenAI  
-  **Domaine :** Data engineering, SQL, documentation technique, delivery package  
-  **Résumé du projet :** Workflow assisté par IA générative pour concevoir, générer, relire et valider une procédure stockée Snowflake SQL à partir d’un besoin métier ou technique structuré
+- <img width="70" height="18" alt="image" src="https://github.com/user-attachments/assets/12626fac-1c36-4139-9174-b1652b87a0a9" /> **[Spec-Driven Workflow for Snowflake SQL Stored Procedure Creation (EN)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/gen-ai-projects/02-spec-driven-workflow-snowflake-sql-stored-procedure-creation)** - workflow assisté par IA générative pour concevoir, générer, relire et valider une procédure stockée Snowflake SQL à partir d’un besoin métier ou technique structuré
 
 ---
 

@@ -17,12 +17,13 @@ Data Analytics Engineer orientée métier, fondant mon approche du travail sur u
 
 ![Ma méthode de travail](https://img.shields.io/badge/Profil-Ma%20m%C3%A9thode%20de%20travail-228B22?style=for-the-badge)
 
-- **Comprendre le besoin métier** :  clarifier les objectifs, les utilisateurs, les décisions à soutenir et les contraintes du projet
-- **Structurer les données** :  analyser les sources, définir les règles métier, modéliser les tables et préparer les indicateurs
-- **Développer la solution analytique** :  construire les traitements SQL, modèles Power BI, mesures DAX et visualisations
-- **Fiabiliser les résultats** :  contrôler la qualité, les volumes, la cohérence des filtres et la justesse des calculs
-- **Documenter le projet** :  formaliser les spécifications fonctionnelles, techniques, dictionnaires de données
-- **Livrer un outil exploitable** :  rendre la solution lisible, maintenable, sécurisée et compréhensible par les équipes métier
+1. **Comprendre le besoin métier** : clarifier les objectifs, les utilisateurs, les décisions à soutenir et les contraintes du projet.
+2. **Structurer les données** : analyser les sources, définir les règles métier, modéliser les tables et préparer les indicateurs.
+3. **Développer la solution analytique** : construire les traitements SQL, modèles Power BI, mesures DAX et visualisations.
+4. **Fiabiliser les résultats** : contrôler la qualité, les volumes, la cohérence des filtres et la justesse des calculs.
+5. **Documenter le projet** : formaliser les spécifications fonctionnelles, techniques et dictionnaires de données.
+6. **Livrer un outil exploitable** : rendre la solution lisible, maintenable, sécurisée et compréhensible par les équipes métier.
+
 ---
 
 ![Informations clés](https://img.shields.io/badge/Profil-Informations%20cl%C3%A9s-228B22?style=for-the-badge)
@@ -40,16 +41,16 @@ Data Analytics Engineer orientée métier, fondant mon approche du travail sur u
 Mon portfolio est organisé par grandes familles de projets data. Chaque repository contient des projets anonymisés, documentés et adaptés pour une démonstration publique.
 
 - [**Analytics Engineering Portfolio**](https://github.com/mary-molchan/analytics-engineering-portfolio)  
-  Projets Power BI, Snowflake SQL, modèles de données, spécifications fonctionnelles et techniques.  
-  Objectif : présenter des projets analytiques complets, structurés et documentés.
+  **Contenu :** projets Power BI, Snowflake SQL, Python, spécifications fonctionnelles et techniques
+  **Objectif :** présenter des projets analytiques complets, structurés et documentés
 
 - [**Analytics Bookshelf**](https://github.com/mary-molchan/analytics-bookshelf)  
-  Bibliothèque personnelle de ressources techniques data.  
-  Objectif : organiser les ressources d’apprentissage autour de la data, BI, SQL, Python, machine learning et data engineering.
+  **Contenu :** bibliothèque personnelle de ressources techniques data
+  **Objectif :** organiser les ressources d’apprentissage autour de la data, BI, SQL, Python, data engineering
 
 - [**Engineering Guidelines**](https://github.com/mary-molchan/engineering-guidelines)  
-  Guides méthodologiques autour de Power BI, Snowflake SQL, Dataiku et analytics engineering.  
-  Objectif : formaliser des standards de travail et des bonnes pratiques data.
+  **Contenu :** guides méthodologiques autour de Power BI, Snowflake SQL, Dataiku et analytics engineering
+  **Objectif :** formaliser des standards de travail et des bonnes pratiques data
 
 ---
 
@@ -57,53 +58,44 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 - **[Analyse de la performance financière des apporteurs](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/analyse-performance-financiere-apporteurs)**  
     **Outil principal :** Power BI  
-    **Domaine :** Assurance / Finance  
-    **Résumé du projet :** Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs.
+    **Résumé du projet :** Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs
 
 - **[Audit et extraction des adhérents sur 5 ans](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/audit-extraction-adherents-5-ans)**  
     **Outil principal :** Power BI  
-    **Domaine :** Assurance / Adhérents  
-    **Résumé du projet :** Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans.
+    **Résumé du projet :** Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans
 
 - **[Analyse des anomalies des flux financiers](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/analyse-anomalies-flux-financiers)**  
     **Outil principal :** Power BI  
-    **Domaine :** Assurance / Finance  
-    **Résumé du projet :** Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction.
+    **Résumé du projet :** Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction
 
 - **[Suivi des demandes métiers pour Data Produits](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/suivi-demandes-metiers-data-produits)**  
   **Outil principal :** Power BI  
-  **Domaine :** Data Products / Pilotage métier  
-  **Résumé du projet :** Solution de centralisation, qualification et priorisation des demandes métiers adressées à une équipe data.
+  **Résumé du projet :** Solution de centralisation, qualification et priorisation des demandes métiers adressées à une équipe data
 
 - **[Supervision des anomalies de flux métier – opérations manquantes](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/supervision-anomalies-flux-metier-operations-manquantes)**  
   **Outil principal :** Power BI  
-  **Domaine :** Assurance / Contrôle des flux  
-  **Résumé du projet :** Dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle.
+  **Résumé du projet :** Dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle
 
 - **[Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Pipeline_Apporteurs)**  
   **Outil principal :** Snowflake SQL  
-  **Domaine :** Assurance / Finance  
-  **Résumé du projet :** Pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées.
+  **Résumé du projet :** Pipeline Snowflake SQL de préparation des données de performance financière via procédures stockées
 
 - **[Audit Flux & Analytics Financière Courtiers](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Audit_Flux)**  
   **Outil principal :** Snowflake SQL  
-  **Domaine :** Assurance / Finance / Risk  
-  **Résumé du projet :** Pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers.
+  **Résumé du projet :** Pipeline Snowflake pour l’analyse des commissions, règlements, transactions et risques associés aux courtiers
 
 - **[Reporting Adhérents Courtiers](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Reporting_Adherents_Courtiers)**  
   **Outil principal :** Snowflake SQL  
-  **Domaine :** Assurance / Reporting opérationnel  
-  **Résumé du projet :** Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique.
+  **Résumé du projet :** Traitement SQL permettant d’alimenter une table de reporting adhérents avec logique incrémentale et fenêtre historique
 
   - **[Spec-Driven Workflow for Power BI Dashboard](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/gen-ai-projects/01_Spec_Driven_Workflow_for_Power_BI_Dashboard)**  
   **Outil principal :** GenAI 
-  **Domaine :** BI, documentation analytique, spécifications fonctionnelles et techniques  
-  **Résumé du projet :** Workflow assisté par IA générative permettant de transformer un besoin métier non structuré en package de spécifications prêt pour la conception et le développement d’un dashboard Power BI.
+  **Résumé du projet :** Workflow assisté par IA générative permettant de transformer un besoin métier non structuré en package de spécifications prêt pour la conception et le développement d’un dashboard Power BI
 
     - **[Spec-Driven Workflow for Snowflake SQL Stored Procedure Creation](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/gen-ai-projects/02-spec-driven-workflow-snowflake-sql-stored-procedure-creation)**  
   **Outil principal :** GenAI  
   **Domaine :** Data engineering, SQL, documentation technique, delivery package  
-  **Résumé du projet :** Workflow assisté par IA générative pour concevoir, générer, relire et valider une procédure stockée Snowflake SQL à partir d’un besoin métier ou technique structuré.
+  **Résumé du projet :** Workflow assisté par IA générative pour concevoir, générer, relire et valider une procédure stockée Snowflake SQL à partir d’un besoin métier ou technique structuré
 
 ---
 
@@ -114,7 +106,7 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 - **Snowflake** : architecture cloud, gestion des warehouses, stratégies de chargement des données
 - **Python** : nettoyage et préparation des données, Pandas, NumPy, analyses exploratoires et statistiques, visualisation avec Matplotlib, Seaborn et Plotly, bases de ML
 - **Dataiku** : pipelines ELT / ETL, orchestration des flux analytiques, automatisation des workflows, data quality
-- **IA générative** : Microsoft Copilot, Perplexity, NotebookLM, automatisation et documentation des processus data
+- **IA générative** : Microsoft Copilot, Perplexity, NotebookLM, automatisation et documentation des processus data, Spec-Driven Development
 - **Méthodologies et outils** : Git, Jira, Confluence, Agile / Scrum, Data Mesh, OKR, Stakeholder Matrix, SWOT
 
 ---
@@ -123,10 +115,10 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ✅ **Data Analytics Engineer** chez **GENERALI France** *(assurance / finance, 9 300+ employés)*, **2024 - aujourd’hui**
 
-  - Réalisé une analyse annuelle des contrats d’assurance avec une vision 360° de la performance financière.
-  - Créé 30+ procédures stockées complexes et optimisé 50+ requêtes Snowflake SQL.
-  - Développé un modèle d’automatisation des dashboards à plusieurs niveaux avec un budget limité.
-  - Élaboré 18 dashboards Power BI multi-pages avec une modélisation en schéma en étoile et une logique Snowflake.
+- Réalisé une analyse annuelle des contrats d’assurance avec une vision 360° de la performance financière.
+- Créé 30+ procédures stockées complexes et optimisé 50+ requêtes Snowflake SQL.
+- Développé un modèle d’automatisation des dashboards à plusieurs niveaux avec un budget limité.
+- Élaboré 18 dashboards Power BI multi-pages avec une modélisation en schéma en étoile et une logique Snowflake.
 
 ✅ **Consultante fonctionnelle Data** chez **SFB Consulting** *(cabinet de conseil)*, **2022 - 2024**
 
@@ -136,9 +128,9 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ✅ **Business Intelligence Engineer** chez **SoftServe** *(ESN, 10 000+ employés)*, **2021 - 2022**
 
-    - Traduit les besoins métier en spécifications data, réduisant les allers-retours projet de 20 à 30 %.
-    - Développé et maintenu des datasets analytiques fiables en SQL, adaptés aux usages Power BI.
-    - Formalisé des KPI clés, utilisés comme référentiel commun par plusieurs équipes métier.
+- Traduit les besoins métier en spécifications data, réduisant les allers-retours projet de 20 à 30 %.
+- Développé et maintenu des datasets analytiques fiables en SQL, adaptés aux usages Power BI.
+- Formalisé des KPI clés, utilisés comme référentiel commun par plusieurs équipes métier.
 
 ✅ **Data Warehouse Business INtelligence Engineer** chez **EPAM Systems** *(ESN, 62 750+ employés)*, **2021**
 
@@ -168,15 +160,14 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ![Formation](https://img.shields.io/badge/Profil-Formation-228B22?style=for-the-badge)
 
-- **Université de Poitiers / IAE** — Bac+5, Intelligence économique, **2024 - 2025** *(finalisé à distance)*.
-- **OpenClassrooms** — Bac+4, Analyse des données, **2024** *(finalisé à distance)*.
-- **Université Catholique Ukrainienne** — Bac+5, Gestion des RH et développement organisationnel, **2016 - 2018**.
+- **Université de Poitiers / IAE** - Bac+5, Intelligence économique, **2024 - 2025** *(finalisé à distance)*
+- **OpenClassrooms** - Bac+3/4, Analyse des données, **2024** *(finalisé à distance)*
+- **Université Catholique Ukrainienne** - Bac+5, Gestion des RH et développement organisationnel, **2016 - 2018**
+- **Kyiv National Economics University** - Bac+5, Informatique, **2003 - 2008**
 
 ---
 
 ![Certificats](https://img.shields.io/badge/Profil-Certificats-228B22?style=for-the-badge)
-
-
 
 - [**Power BI Data Analyst PL-300**](https://learn.microsoft.com/en-us/users/marynamolchan-0506/credentials/33687dcbb5beff76?ref=https%3A%2F%2Fwww.linkedin.com%2F) - Microsoft, 2026
 - [**Machine Learning Pipeline using Dataiku**](https://coursera.org/share/6c88ab1d408af288f87914c2e02d9d5a) - Dataiku, 2024
@@ -193,10 +184,12 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ![Mes articles](https://img.shields.io/badge/Profil-Mes%20articles-228B22?style=for-the-badge)
 
+- [**Quels ingénieurs les entreprises chercheront-elles à recruter ?**](https://www.linkedin.com/pulse/quels-ing%C3%A9nieurs-les-entreprises-chercheront-elles-%C3%A0-recruter-maryna-beg9e) — réflexion sur l’évolution des compétences recherchées chez les ingénieurs et l’importance du "product mindset"
+- 
 ---
 
 ![Comment me contacter](https://img.shields.io/badge/Profil-Comment%20me%20contacter-228B22?style=for-the-badge)
 
-- **LinkedIn** : [linkedin.com/in/mmolc](https://www.linkedin.com/in/mmolc/)
+- **LinkedIn** : [linkedin.com/in/mmolc](https://www.linkedi-n.com/in/mmolc/)
 - **GitHub** : [github.com/mary-molchan](https://github.com/mary-molchan)
 - **Email** : [molchan.mary@gmail.com](mailto:molchan.mary@gmail.com)

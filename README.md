@@ -40,17 +40,11 @@ Data Analytics Engineer orientée métier, fondant mon approche du travail sur u
 
 Mon portfolio est organisé par grandes familles de projets data. Chaque repository contient des projets anonymisés, documentés et adaptés pour une démonstration publique.
 
-- [**Analytics Engineering Portfolio**](https://github.com/mary-molchan/analytics-engineering-portfolio)  
-  **Contenu :** projets Power BI, Snowflake SQL, Python, spécifications fonctionnelles et techniques
-  **Objectif :** présenter des projets analytiques complets, structurés et documentés
+- [**Analytics Engineering Portfolio**](https://github.com/mary-molchan/analytics-engineering-portfolio) - projets Power BI, Snowflake SQL, Python, spécifications fonctionnelles et techniques pour présenter des projets analytiques complets, structurés et documentés
 
-- [**Analytics Bookshelf**](https://github.com/mary-molchan/analytics-bookshelf)  
-  **Contenu :** bibliothèque personnelle de ressources techniques data
-  **Objectif :** organiser les ressources d’apprentissage autour de la data, BI, SQL, Python, data engineering
+- [**Analytics Bookshelf**](https://github.com/mary-molchan/analytics-bookshelf) - bibliothèque personnelle de ressources techniques data pour organiser les ressources d’apprentissage autour de la data, BI, SQL, Python, data engineering
 
-- [**Engineering Guidelines**](https://github.com/mary-molchan/engineering-guidelines)  
-  **Contenu :** guides méthodologiques autour de Power BI, Snowflake SQL, Dataiku et analytics engineering
-  **Objectif :** formaliser des standards de travail et des bonnes pratiques data
+- [**Engineering Guidelines**](https://github.com/mary-molchan/engineering-guidelines)  - guides méthodologiques autour de Power BI, Snowflake SQL, Dataiku et analytics engineering pour formaliser des standards de travail et des bonnes pratiques data
 
 ---
 

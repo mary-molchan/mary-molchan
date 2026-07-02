@@ -56,24 +56,19 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ![Exemples de mes projets](https://img.shields.io/badge/Profil-Exemples%20de%20mes%20projets-228B22?style=for-the-badge)
 
-- **[Analyse de la performance financière des apporteurs (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/01-analyse-performance-financiere-apporteurs)**  
-    **Outil principal :** Power BI  
+- <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Analyse de la performance financière des apporteurs (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/01-analyse-performance-financiere-apporteurs)**  
     **Résumé du projet :** Dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs
 
-- **[Audit et extraction des adhérents sur 5 ans (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/02-audit-extraction-adherents-5-ans)**  
-    **Outil principal :** Power BI  
+- <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Audit et extraction des adhérents sur 5 ans (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/02-audit-extraction-adherents-5-ans)**  
     **Résumé du projet :** Outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans
 
-- **[Analyse des anomalies des flux financiers (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/03-analyse-anomalies-flux-financiers)**  
-    **Outil principal :** Power BI  
+- <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Analyse des anomalies des flux financiers (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/03-analyse-anomalies-flux-financiers)**  
     **Résumé du projet :** Dashboard de suivi des anomalies de flux financiers, des montants bloqués et de la dynamique de correction
 
-- **[Suivi des demandes métiers pour Data Produits (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/04-suivi-demandes-metiers-data-produits)**  
-  **Outil principal :** Power BI  
+- <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Suivi des demandes métiers pour Data Produits (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/04-suivi-demandes-metiers-data-produits)**  
   **Résumé du projet :** Solution de centralisation, qualification et priorisation des demandes métiers adressées à une équipe data
 
-- **[Supervision des anomalies de flux métier – opérations manquantes (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/05-supervision-anomalies-flux-metier-operations-manquantes)**  
-  **Outil principal :** Power BI  
+- <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Supervision des anomalies de flux métier – opérations manquantes (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/05-supervision-anomalies-flux-metier-operations-manquantes)**  
   **Résumé du projet :** Dashboard de supervision permettant d’identifier les opérations attendues mais absentes du périmètre de contrôle
 
 - **[Pipeline SQL de préparation des données pour l’analyse de la performance financière des apporteurs (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/snowflake-sql-projects/Projet_Snowflake_SQL_Pipeline_Apporteurs)**  

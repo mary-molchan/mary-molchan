@@ -105,7 +105,7 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 - Développé et maintenu des datasets analytiques fiables en SQL, adaptés aux usages Power BI.
 - Formalisé des KPI clés, utilisés comme référentiel commun par plusieurs équipes métier.
 
-✅ **Data Warehouse Business INtelligence Engineer** chez **EPAM Systems** *(ESN, 62 750+ employés)*, **2021**
+✅ **Data Warehouse Business Intelligence Engineer** chez **EPAM Systems** *(ESN, 62 750+ employés)*, **2021**
 
 - Conçu des dashboards Tableau orientés décision, favorisant l’adoption par les utilisateurs finaux.
 - Renforcé l’équipe BI par mon expertise business, accélérant la priorisation des cas d’usage à forte valeur.

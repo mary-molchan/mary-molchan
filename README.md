@@ -134,8 +134,7 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 ![Formation](https://img.shields.io/badge/Profil-Formation-228B22?style=for-the-badge)
 
 - **Université de Poitiers / IAE** - Bac+5, Intelligence économique, **2024 - 2025** *(finalisé à distance)*
-- **Université Catholique Ukrainienne** - Bac+5, Gestion des RH et développement organisationnel, **2016 - 2018**
-- **Kyiv National Economics University** - Bac+5, Informatique, **2003 - 2008**
+- **Université Catholique Ukrainienne** - Bac+5, Gestion d'entreprise et développement organisationnel, **2016 - 2018**
 
 ---
 

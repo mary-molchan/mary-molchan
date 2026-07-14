@@ -28,12 +28,11 @@ Data Analytics Engineer orientée métier, fondant mon approche du travail sur u
 
 ![Informations clés](https://img.shields.io/badge/Profil-Informations%20cl%C3%A9s-228B22?style=for-the-badge)
 
-- **Double expertise** : **5 ans** d’expérience en analyse technique et **10+ ans** en analyse business / métier
-- **3 certifications professionnelles** : AWS, Google, Microsoft
+- **Double expertise** : **5 ans** d’expérience en analyse technique et **11 ans** en analyse business / métier
+- **Certifications professionnelles** : AWS, Google, Microsoft, Dataiku
 - **Expérience multi-environnements** : start-ups, PME, grands groupes, ESN
 - **Expérience multi-domaines** : assurance, finance, télécommunications, e-commerce, services numériques, ressources humaines, performance organisationnelle, transformation des processus, développement logiciel
 - **Langues** : français, anglais, russe, ukrainien
-- **Autorisation de travail** : titre de séjour pluriannuel avec autorisation de travail en France
 
 ---
 ![Portfolio](https://img.shields.io/badge/Profil-Portfolio-228B22?style=for-the-badge)

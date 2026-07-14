@@ -93,7 +93,7 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 - Développé un modèle d’automatisation des dashboards à plusieurs niveaux avec un budget limité.
 - Élaboré 18 dashboards Power BI multi-pages avec une modélisation en schéma en étoile et une logique Snowflake.
 
-✅ **Consultante fonctionnelle Data** chez **SFB Consulting** *(cabinet de conseil)*, **2022 - 2024**
+✅ **Consultant Data** chez **SFB Consulting** *(cabinet de conseil)*, **2022 - 2024**
 
 - Accompagné 27 entreprises dans l’optimisation de leurs processus de gestion des données.
 - Optimisé des modèles analytiques, réduisant les temps de requête de 10 à 30 %.
@@ -111,13 +111,13 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 - Renforcé l’équipe BI par mon expertise business, accélérant la priorisation des cas d’usage à forte valeur.
 - Optimisé les requêtes SQL existantes, avec des gains mesurables de performance et de coûts.
 
-✅ **Analyste RH et organisationnel** chez **Trembit** *(start-up de vidéo streaming, 50 employés)*, **2018 - 2021**
+✅ **Analyste organisationnel** chez **Trembit** *(start-up de vidéo streaming, 50 employés)*, **2018 - 2021**
 
 - Optimisé 20+ processus organisationnels et RH, améliorant l’efficacité et la traçabilité.
 - Mis en place de nouveaux processus métier, réduisant les délais opérationnels de 15 à 20 %.
 - Déployé un système d’analytics RH pour piloter la performance et accompagner le doublement des effectifs.
 
-✅ **Analyste organisationnel et métier** chez **SFB Consulting** *(cabinet de conseil)*, **2013 - 2018**
+✅ **Analyste organisationnel** chez **SFB Consulting** *(cabinet de conseil)*, **2013 - 2018**
 
 - Conduit 30+ PME dans l’optimisation de leur organisation et l’amélioration de leur efficacité.
 - Transformé les besoins de 50+ clients en solutions concrètes de pilotage et d’aide à la décision.

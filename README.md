@@ -49,6 +49,8 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ![Exemples de mes projets](https://img.shields.io/badge/Profil-Exemples%20de%20mes%20projets-228B22?style=for-the-badge)
 
+- <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Programme de formation pratique Power BI : projet PILOT'INTER (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/06-accompagnement-formation-pratique-powerbi)** - accompagnement d'une équipe Distribution de 20 personnes, débutantes sur Power BI, dans la construction d'un premier rapport opérationnel
+
 - <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Analyse de la performance financière des apporteurs (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/01-analyse-performance-financiere-apporteurs)** - dashboard de suivi de la collecte, de la décollecte, des encours et de la performance des réseaux d’apporteurs
 
 - <img width="55" height="20" alt="image" src="https://github.com/user-attachments/assets/370a2c7a-8b10-402a-8d3c-b30c92ac45cd" /> **[Audit et extraction des adhérents sur 5 ans (FR)](https://github.com/mary-molchan/analytics-engineering-portfolio/tree/main/power-bi-projects/02-audit-extraction-adherents-5-ans)** - outil Power BI de recherche, contrôle, consultation et extraction des données adhérents sur une fenêtre historique de 5 ans

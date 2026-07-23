@@ -154,7 +154,7 @@ Mon portfolio est organisé par grandes familles de projets data. Chaque reposit
 
 ---
 
-![Mes articles](https://img.shields.io/badge/Profil-Mes%20articles-228B22?style=for-the-badge)
+![Mes articles](https://img.shields.io/badge/Profil-Mes%20articles-228B22?style=for-the-badge) 
 
 - [**Quels ingénieurs les entreprises chercheront-elles à recruter ?**](https://www.linkedin.com/pulse/quels-ing%C3%A9nieurs-les-entreprises-chercheront-elles-%C3%A0-recruter-maryna-beg9e) — réflexion sur l’évolution des compétences recherchées chez les ingénieurs et l’importance du "product mindset"
 
